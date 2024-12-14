@@ -37,3 +37,13 @@ type Product = {
     { id: '29', name: 'Product 29', imageSrc: '/product-29.png', price: '$160' },
   ];
   
+
+  import React from 'react'
+  
+  function productPage() {
+    return (
+      <div>productPage</div>
+    )
+  }
+  
+  export default productPage
